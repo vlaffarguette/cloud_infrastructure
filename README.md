@@ -3,9 +3,9 @@
 
 *Docker-compose services : 
 
--MongoDB Database
--2 application servers (node)
--Nginx (Reverse proxy & load balancer)
+      -MongoDB Database
+      -2 application servers (node)
+      -Nginx (Reverse proxy & load balancer)
 
 *Guidelines : 
   1. Clone repository
